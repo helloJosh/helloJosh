@@ -21,7 +21,7 @@
 <h3>Open Source Pojects</h3>
 <ul>
   <li>
-  //<a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901">
+  <a href="">
   <b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />
   Composing Using Deep Learning(Planning to post utill Oct)</b></a><br/><i>Make a Deep learning Model and deploy it on your website.</i></li>
   
