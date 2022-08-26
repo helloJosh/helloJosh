@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Joshua, System engineer from <img src="https://github.com/helloJosh/helloJosh/blob/main/south-korea.png" width="13"/>  <b>cheon-an, korea</b>, currently working at Yokogawa Electronics</p>
+<p>Welcome to my page! </br> I'm Joshua, System engineer from <img src="https://github.com/helloJosh/helloJosh/blob/main/south-korea.png" width="16"/>  <b>cheon-an, korea</b>, currently working at Yokogawa Electronics</p>
 <h3>Things I code with</h3>
 
 <p>
