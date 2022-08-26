@@ -32,3 +32,9 @@
   Process Scheduling Simulator(Planning to post utill Dec)</b></a><br/><i>Learning process scheduling in OS</i></li>
 </ul>
 
+<h3>Where to find me</h3>
+<p><a href="https://github.com/hellojosh" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+
+<p><a href="https://www.instagram.com/__woo_b/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @__woo_b!</a>
+</p>
+
