@@ -5,6 +5,7 @@
 - My resume : [이력서 바로가기](https://brazen-gas-0d4.notion.site/1cad7345e160411c9d2a097cd854d6f0)
 - My blog : [기술블로그 바로가기](https://hellojosh.tistory.com/)
 
+
 ## GitHub stats
 ![ByungwooKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloJosh&show_icons=true&theme=dracula)
 
