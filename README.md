@@ -1,6 +1,7 @@
 안녕하세요
+백엔드 개발자 김병우입니다.
   
-- My blog : [기술블로그 바로가기](https://hellojosh.tistory.com/)
+- [기술블로그 바로가기](https://hellojosh.tistory.com/)
 
 
 ## GitHub stats
