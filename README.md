@@ -1,7 +1,7 @@
 ### 안녕하세요 백엔드 개발자 김병우입니다.
 
 ## Blog 
-![기술블로그](https://woobeee.com/)
+기술블로그 : https://woobeee.com/
 
 ## GitHub stats
 ![ByungwooKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloJosh&show_icons=true&theme=dracula)
