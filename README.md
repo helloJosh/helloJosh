@@ -1,9 +1,6 @@
+#### Hi!🙌
 
-
-<br />
-### I’m a software engineer who enjoys deep work and focused problem-solving.
-
-<br />
+#### I’m a software engineer who enjoys deep work and focused problem-solving.
 
 **About me**
 
