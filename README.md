@@ -6,7 +6,6 @@
 
 - 💼 Back-End Engineer at Amberroad
 - ❤️ I love working with **Spring**, **Java**, and **Kotlin**  
-- 📈 Contributions : Spring Batch(Docs)
 - 📇 Blog : https://woobeee.com
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white)
