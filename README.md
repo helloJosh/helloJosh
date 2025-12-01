@@ -15,5 +15,7 @@
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+/**
 | <a href="https://github.com/helloJosh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=helloJosh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="helloJosh's github stats" /></a> | <a href="https://github.com/helloJosh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloJosh&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+*/
